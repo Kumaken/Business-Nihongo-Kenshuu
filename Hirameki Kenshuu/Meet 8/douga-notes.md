@@ -13,7 +13,8 @@
 13. 資料：shiryo: document
 14. お手入れ：oteiru: care for
 15. ツメ：tsume:claw
-
+16. 世間話: yokenbanashi: small talks
+17. 熟語: jukugo: idioms
 
 
 皆がまだ言っていない面白かったところは:
