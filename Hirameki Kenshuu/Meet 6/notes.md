@@ -8,7 +8,7 @@ A. atarasji kotoba:
     7. chokki: shigoto wo owarimashita, kaeru koto ga dekiru(to client then home)
     8. kyuuka: on leave
     9. soutai: leave early
-    10. 出張: shuuchou: business trip
+    10. 出張: shucchou: business trip
     11. 直接: chokusetsu: directly
 
 
