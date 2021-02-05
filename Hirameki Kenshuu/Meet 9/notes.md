@@ -1,7 +1,11 @@
 ことば：
 １．割り勘にする
 ２．詳細
-
+３．しんめきり:new deadline
+４．はやまって:early
+５．つたわりました
+６．翌日：よくじつ：next day
+７．お役に立てば幸いです： oyakunitateba saiwai desu: i hope it can be useful
 
 1. 丁寧語の練習
 nomunication
@@ -23,6 +27,9 @@ nomunication
     １．今日はご馳走様でした
     ２．ご馳走ていただき、楽しかったです。
 
+
+動画から：
+１．手伝って下さって大変助かりました
 
 ふりかえり：
 今回の授業にも、様々な役に立つことを学びました。
