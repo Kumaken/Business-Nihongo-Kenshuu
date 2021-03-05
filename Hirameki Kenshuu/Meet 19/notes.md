@@ -137,3 +137,38 @@ X先生
 
 ありがとうございました。
 アベル
+
+
+shukudai:
+資料を請求する
+(Request for material)
+
+1. Request for catalog
+カタログを依頼する
+
+2. I am writing to you because I am really interested in one of your services.
+御社のサービスの1つに本当に興味があり、ご連絡いたしました。
+
+3. I would like to ask you to send us a catalog and your price list.
+カタログと価格表をお送りしていただけませんか。
+
+4. My name is Hiroyuki Takanashi. We met at the trade fair last week.
+高梨博之と申します。先週の見本市でお会いになりました
+
+5. I am writing to you for the first time.
+今回初めてメールしております
+
+6. I have attached our latest PDF catalog.
+最新カタログのPDFを添付しておりました。
+
+7. If you have any trouble opening it, please let me know.
+開けるのに何か問題がありましたらお知らせください
+
+8. Here is the PDF catalog you requested.
+こちらが要請されたPDFカタログでございます
+
+9. If you need more information, please let me know.
+他に必要な情報がございましたらお知らせください
+
+10. Thank you for the information.
+ご情報をいただき、ありがとうございました
