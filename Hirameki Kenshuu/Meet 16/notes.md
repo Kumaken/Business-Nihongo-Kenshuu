@@ -1,3 +1,5 @@
+1. konichiwa hirukai wo hajimetai
+2. akuma made watashi no iken desu
 １．日本の図書館についてですけど。本を借りた後に、そろそろ返却しなければならないの締切時間には、図書館から警告をもらえますか？お知らせメールとか、電話とか。
 
 私の経験では、とても忘れやすいですから、大変です。
