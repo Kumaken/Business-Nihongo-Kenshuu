@@ -15,12 +15,12 @@ goseichou arigatougozaimashita
 10. この大切な会議には、全員参加が必要です
 
 1. How about a meeting at 11:30 on August 16th?
-2. It doesn't matter if you ask the company.
+2. We don't mind visiting your company
 3. It would be very helpful if we could meet you.
-4. Can we have a meeting on August 16th?
-5. Can you tell me the convenient place and time?
+4. Could we have a meeting on August 16th?
+5. Could you tell me the place and time that are convenient for you?
 6. Would you please reserve the second meeting room from 12:00?
-7. Attach the meeting materials.
+7. I will attach the meeting materials.
 8. If you are unable to attend, please let us know as soon as possible.
 9. If you have any questions, please contact us.
 10. Everyone is required to attend this important meeting.
